@@ -770,7 +770,7 @@ MonoBehaviour:
   - {fileID: 1280354459099166381, guid: 77f785035705b7b42b2d77d6917c8889, type: 3}
   - {fileID: 4206136011277249566, guid: bda792f599c153945af718489320c61b, type: 3}
   - {fileID: 3562130680294718441, guid: 129c528d7731d8045ac06b22ca93fb8c, type: 3}
-  nextShape: {fileID: 0}
+  nextShape: {fileID: 1505576119}
 --- !u!4 &1935735962
 Transform:
   m_ObjectHideFlags: 0
